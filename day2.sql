@@ -1,0 +1,304 @@
+-- create extension fuzzystrmatch;
+
+with recursive inputs as(
+  select 'nkucgflathzwwijtrevymbdplq
+nkucgflathzwsidxrlvymbdpiq
+nkucgjlathqwsijxrevymbypoq
+nkucgflarrzwsmjxrevymbdpoq
+nkucgflzthtwsijxrevymbdpjq
+nkucgflahhzwskjxrevymbgpoq
+bkycgflathzwsijxrsvymbdpoq
+nkucgflathzwsijxdevymbdmog
+nkucgflaehzwsmjxrevymbdpow
+nkucgflathzwsijxrevwmbdnbq
+nkucgflathzssijxrevynbdqoq
+ngucgflathzwsijxsevymndpoq
+nfucgflathzvsijxrevymbspoq
+nkucgflwthzwsijxreeymbdpkq
+nkucgflpthzwsijxrevdmbdpoe
+nkungflatuzwsijurevymbdpoq
+nkucgflathzwsiqxrevyybdpom
+nkucgflathzwsicxrevtmbtpoq
+nkucgfladhzwsijxreuymbdboq
+nkumgflathznsijxzevymbdpoq
+nkuagflethzwsijxrqvymbdpoq
+nkucgflatozwhijxrevymbdpkq
+nkuggflathzwsijxrejymbdpob
+nkucgflathzwlijxrqvambdpoq
+hkucnflathzasijxrevymbdpoq
+nkuigflathzwsirxrevymbdooq
+nkucgflatezwsijxwetymbdpoq
+nkucmflavhbwsijxrevymbdpoq
+nkucgflathzwssjxrevytbmpoq
+nkucgflmthzwsvjxrevymbdpgq
+nkucgtlathzwsijcrevymbjpoq
+nkucgflathfwsfjxrevymbdpsq
+nkucgflathjwsijxrwvymbdpok
+nkucgeldthzwsijxrevymqdpoq
+nkutgcpathzwsijxrevymbdpoq
+nkucgflaehzmsijxrevymydpoq
+mkucdflathzwsvjxrevymbdpoq
+nkucgflathzwsijxtevymidpfq
+nkucgfllthzwsijirevlmbdpoq
+nkucgfuathzwsijxrevymbqpou
+nkufgflathzwsijxrgvymbdpor
+nkuygflatrzwsijxrevymbdpoo
+nkunoflathzwsijxrevyabdpoq
+nksogflathzwsijxrevymbdpeq
+nkucgflathzwciexrevymbdhoq
+nkucgfnathzwsijxdevyobdpoq
+nkudgflazhzwsijxrevymbmpoq
+nkucgylathzwscjxrevymbdaoq
+nkucgflqthzisijxrerymbdpoq
+nkucgxlathzwsijxgebymbdpoq
+nkucgflathzssijxrwvymadpoq
+nkucgflathzwsijxrvvymbdloi
+nkucaflathzwskjxzevymbdpoq
+wkuchflathzwsijxrevymbdioq
+nkucgilathzwsijxrgvympdpoq
+nkubgflaohzwsijxrevymbnpoq
+nkucgwoathzwnijxrevymbdpoq
+nkprgflathzwsijxrevywbdpoq
+nkucgflatlzwsijxievymzdpoq
+nkucgflathzwsijxrevymbmdow
+nkucgzlathzwsitlrevymbdpoq
+nkubgfladhzwsijxrevymbdpsq
+nkucgflathzwsijxrzvyibdroq
+wkucgflathznsijqrevymbdpoq
+nkupgilathzwsijxrnvymbdpoq
+nkucgflathzwwijnrevymgdpoq
+nkucgflathjwsijxrewymbopoq
+mkwcdflathzwsvjxrevymbdpoq
+nkucgflathzwsujxoevymbdboq
+nkucvflathzwsojxrevymzdpoq
+nkocgflabhzwsijxrevyebdpoq
+skuciflpthzwsijxrevymbdpoq
+nkuxgflathzrsijxrevymbupoq
+nkucgblathzwsezxrevymbdpoq
+nkucgflathzwsijxrevymbvtop
+nkucdflathzwsiaxrefymbdpoq
+nkucgflathzwsijxzevkmbdpmq
+nkucgflarhzwsijroevymbdpoq
+nkuccflathzwsinxrevymsdpoq
+nkucgflathzwsijxregymidsoq
+nkucgflathnwsijxrvvumbdpoq
+nkucgfaathzwssjxrevymbdwoq
+nkucgflothzwsijxrevymbdloz
+naucgulathzwsijxremymbdpoq
+nkucgflaqhzwsijxrevymbdnqq
+wkucgflatrzwsijxrevymbdpof
+nvucgflaehzwyijxrevymbdpoq
+nkusaflaahzwsijxrevymbdpoq
+nkucgfkathzwsijxrevymbdbfq
+nkucgfkathzwsijrrevymodpoq
+nkuegflathzwsijxrrvbmbdpoq
+ykucgflathzwsijfrlvymbdpoq
+nkucgflathzrsujxrevymbdkoq
+nkuclflatsowsijxrevymbdpoq
+nkucgflathzwsgjxrqvymbdpor
+ekucgflathzwsijorevlmbdpoq
+nkucgflathizsijgrevymbdpoq
+nkucgfoathzksijbrevymbdpoq
+nkucgflachzwsijxrevymbupoa
+nkuhgflathzwsijxravylbdpoq
+nkncgflithzwsijnrevymbdpoq
+nvucgjlathzjsijxrevymbdpoq
+nhucgflathzwsijxrtvymbtpoq
+akucgflathzwhijxrevymbdpor
+nkucgflatozisijxrvvymbdpoq
+nkucgzlatgzwsijxrevymbepoq
+nkjcgflqthmwsijxrevymbdpoq
+nkucgflaohzosijxrhvymbdpoq
+ntucgflatrzwsijxrevymbdpol
+nkucgflathzwsijkriqymbdpoq
+nkuggflathzwsijmrevymbdpvq
+nkucgflpmhzwsmjxrevymbdpoq
+okucgflathzwsijxrevgmbdsoq
+nkucgflaehzwkijxrevymwdpoq
+zkucgfllthzwsijxrevymbdpod
+nkicgflathzasijxfevymbdpoq
+kkucgfhathzwsijxaevymbdpoq
+nkucqflsthzwsijxrevyjbdpoq
+nkucgflaghzwsijxoevykbdpoq
+nkucgflaohzwsljxryvymbdpoq
+bkucfflathzwsijxrexymbdpoq
+nkucnflathzwsbjxrpvymbdpoq
+nkucjflatlzwsijxrevymqdpoq
+nkucgflathzwsijsyevyxbdpoq
+nkwcgflathzosijxqevymbdpoq
+nkucgslathzesijxievymbdpoq
+nkuciflauhzwsiaxrevymbdpoq
+nkucgflathzwsiwxreeymbdwoq
+nkucgblatwzwsijxkevymbdpoq
+njucgfkathzwsijxrevymbvpoq
+nkucgfladhzwsijfrevyibdpoq
+nkukgflathzwsijprenymbdpoq
+nkucgflathzwsijxrchymbupoq
+nkucgfeathzwsitxaevymbdpoq
+nkufjflathzwsijxresymbdpoq
+nkuggflatlzwsijxrevymbdpoa
+nkucgflsthnwsijxrevumbdpoq
+nkuceflathzwsnjxrevymbmpoq
+nkucgflabhzwsijxrevymblplq
+nkucgfmathzwsijxrevdybdpoq
+niuvgflathzwsijxrcvymbdpoq
+nkscgflathzwsijxrevyzbdooq
+nkucgflatszwsbjxrevymbgpoq
+nkucgflazhzwsijxcevymzdpoq
+nkucgflathzwsfjqrevymbdpxq
+nkucgflathcwsijxrrvymbdroq
+nkurgflathzwsijxrepymzdpoq
+nlucgflathzwrijxrevdmbdpoq
+kkucgflkthzwswjxrevymbdpoq
+nktcgflathzwgijxrevbmbdpoq
+nbucgfiathzwsijxreyymbdpoq
+lkucgflathswsijxrevymbdpxq
+ntucgflathzwswrxrevymbdpoq
+nkscgflathzwssjxravymbdpoq
+nuocgflathzwsijxrevyebdpoq
+nbucgllathzwsijxregymbdpoq
+ckucbflathzwsijxrelymbdpoq
+nkucgflathzwsijxremymbqpor
+nkgcgfljthzwsijkrevymbdpoq
+nkdcgflashzwsijxrjvymbdpoq
+nkecgflathzwsijxuevumbdpoq
+njucgflatpfwsijxrevymbdpoq
+nkucgwlathzjsijxrevymbzpoq
+nkucgfxathzqsijxrenymbdpoq
+dkfcgflathzwsijxrevymbdtoq
+nkupgfhathzwsijxrevymbjpoq
+nkucgflathzwsjjxrevymldooq
+pkucgfbathhwsijxrevymbdpoq
+nkuciflayhzwsijxrevymbdpfq
+nkucpfdathzwsajxrevymbdpoq
+ykucgflathdwsijzrevymbdpoq
+nkucgwlstnzwsijxrevymbdpoq
+nkucwfzazhzwsijxrevymbdpoq
+nkucgflatczwssjxretymbdpoq
+nkucgflathzwsijpreaymxdpoq
+ntucgflathzwsijxrepymvdpoq
+nkucgqlathzdsijxrevymbopoq
+nkucgflathzusijxfevymbdptq
+nkocgflathzwdijxrevymbipoq
+nklcgflatgzwsijxrevymbdsoq
+nkucgflathzwsgjxgevymbopoq
+nkucgflathzwuijxreaymbdyoq
+nkucgwlathzwsvjxrevymbdpos
+nkucrflathzwliqxrevymbdpoq
+nkucgflathzxsijxievysbdpoq
+nkufgolhthzwsijxrevymbdpoq
+niucgflathzwsiixrevyabdpoq
+nkucgflathzhsijxrevymbdyuq
+nkucgqlathzwsijxreaymbdpob
+nzucgflathzesijxrevymwdpoq
+nkucgflatlzwsirxrevymmdpoq
+nkucgfxavhzwsijxrevymbwpoq
+nkucgflathswsijxrevvmbdpoe
+nkucgfgethzwsrjxrevymbdpoq
+nkucgzlayhzwsinxrevymbdpoq
+nkucgflwthzwsiyxrevymbdpdq
+nkucgflpthzwsijxrezombdpoq
+nkurgflathdwsijxuevymbdpoq
+nkjcgflathzwsijxrevkmbdpoc
+nkucmflatuzwsijxrevmmbdpoq
+nkucgfldthzwsijxrevevbdpoq
+nkucgflatrzgsijxrevambdpoq
+nkicgflathzwsijxrevymhdhoq
+nkbcgflathzwsijxrevymxdpos
+nkucgflatfzwsijxrevymwdqoq
+hkucgflaqwzwsijxrevymbdpoq
+nkjcgflathzvsijxrevyjbdpoq
+niucgflathzwsijxrezymbdpob
+ynucgflathzwsijxremymbdpoq
+nkubgflathzwsijxrhvymldpoq
+nkucqflrthzesijxrevymbdpoq
+nkucgulathzwsijxrevyubdioq
+nkuczflathzwsijxaebymbdpoq
+nkucgfldthzwsibxrevymrdpoq
+nkucgflatwzdsijxrevymsdpoq
+nkncgffathzwsijxrejymbdpoq
+nkucgflathzqsijxrevxmodpoq
+nkucgflathwwsijqrevymbipoq
+nkucgflathzwhajxrebymbdpoq
+gkucgflathzwsijxreirmbdpoq
+nkucgflathzesijzravymbdpoq
+nkucgflaghzwsijxrerymbdplq
+wkucgflathxwgijxrevymbdpoq
+nkucgfljthfwsijxrevymbdpfq
+nkucgflathwwsimxrevymbdpjq
+nkucgdlachzwsijxrevymmdpoq
+njucgclathzwsiixrevymbdpoq
+nkucgflatdzwsijxrevymzrpoq
+nkuckflatvzcsijxrevymbdpoq
+nkucgflathzhsijxrevqmbkpoq
+nkucqflathzjsijvrevymbdpoq
+nkucgftathzwsijxrevympdpoi
+nvucgflatmzwsijxrevymbdpsq
+nkocgflathznsijxrevymbdphq
+mkgcgflathzwsijxrevymbdpvq
+nkucnflathzwsijbrevymbdcoq
+nkucgflathzwsijsrevymsdgoq
+nkuckflatxzwsiwxrevymbdpoq
+nkucyflathzwsijxrehcmbdpoq
+nkurgflajhzwsijxrevkmbdpoq
+wkucgflathzwsijxrfvymbapoq
+nkucgflathzwsijxaekymbdpon
+nkucgfkathywsijxrevymbdpsq
+nkucgflathzwsijxaexcmbdpoq
+nkucgflathzwsijxrevymddhox
+nkucgflathzwgijxrevymydooq
+nkycqflathzwsijxrezymbdpoq
+nkucgflathwwsijxrevymbspsq
+nkucgflatpzwssjfrevymbdpoq
+nkwcgflhthzwsijxrevcmbdpoq'::text as inputs
+)
+,split as (
+  select regexp_split_to_table(inputs,'\n')::text as inputs
+  from inputs
+)
+/*,split as (
+  select regexp_split_to_table(inputs,'\n')::int as inputs
+  from inputs
+)*/
+,id_split as (
+
+  select row_number() over() as row_id, inputs
+  from split
+)
+,letter_split as (select
+                    row_id,
+                    regexp_split_to_table(inputs, '') as letters
+                  from id_split
+)
+,multiples as (
+    select
+      row_id,
+      letters,
+      count(1) as multiples
+    from letter_split
+    group by 1, 2
+    having count(1) in (2, 3)
+)
+,part1 as (
+    select count(distinct case when multiples = 2
+      then row_id end) *
+           count(distinct case when multiples = 3
+             then row_id end)
+    from multiples
+)
+,distance1 as (select i1.inputs as input1,
+  i2.inputs as input2
+               from id_split i1
+                 left join id_split i2
+                   on i2.row_id < i1.row_id
+               where levenshtein(i1.inputs, i2.inputs) = 1
+)
+,distance_splits as (select
+                       regexp_split_to_table(input1, '') as inputs1,
+                       regexp_split_to_table(input2, '') as inputs2
+                     from distance1
+)
+select string_agg(inputs1,'')
+from distance_splits
+where inputs1 = inputs2
+;
